@@ -1,0 +1,5 @@
+Hafta 12 Log:
+
+JavaScript ile rastgele sayı üretildi.  
+Butona basıldığında sonucu ve ilgili resmi gösteren kod yazıldı.  
+Kod sorunsuz çalıştı.
