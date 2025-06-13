@@ -1,0 +1,2 @@
+Hafta 12
+HTML ve JavaScript kullanarak basit bir bahis oyunu yaptık. Kullanıcı butona tıkladığında rastgele Galatasaray, Fenerbahçe veya beraberlik sonucu belirleniyor ve buna göre ekranda ilgili mesaj ile takım logosu gösteriliyor. Böylece, kullanıcı etkileşimli ve rastgele sonuç üreten küçük bir web uygulaması oluşturduk.
